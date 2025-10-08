@@ -1,0 +1,5 @@
+repository,status,analysis_time_hours,size_files,size_additions,size_deletions,description_chars,interaction_participants,interaction_comments,reviews_count
+PanJiaChen/vue-element-admin,CLOSED,37818.54277777778,1,26,4,51,2,2,1
+PanJiaChen/vue-element-admin,CLOSED,34981.869722222225,4,113,15,245,3,3,3
+PanJiaChen/vue-element-admin,MERGED,4990.5175,5,60,15,0,2,1,2
+PanJiaChen/vue-element-admin,MERGED,250.6175,1,1,1,292,2,1,2

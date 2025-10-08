@@ -1,0 +1,14 @@
+repository,status,analysis_time_hours,size_files,size_additions,size_deletions,description_chars,interaction_participants,interaction_comments,reviews_count
+facebook/create-react-app,MERGED,404.0208333333333,2,18,4,141,10,7,1
+facebook/create-react-app,MERGED,107.95722222222223,3,42,2,780,6,4,2
+facebook/create-react-app,MERGED,444.61694444444447,1,3,3,20,5,3,3
+facebook/create-react-app,MERGED,324.7108333333333,1,1,1,64,4,8,2
+facebook/create-react-app,MERGED,9363.395833333334,2,265,253,207,6,10,1
+facebook/create-react-app,CLOSED,251.70277777777778,3,19,13,121,3,3,1
+facebook/create-react-app,CLOSED,574.6622222222222,2,8,6,123,4,1,1
+facebook/create-react-app,MERGED,233.46305555555554,5,81,17,112,6,10,2
+facebook/create-react-app,CLOSED,5218.730277777778,1,2,0,361,3,2,1
+facebook/create-react-app,MERGED,12.011666666666667,2,52,0,267,6,3,1
+facebook/create-react-app,CLOSED,12908.665277777778,1,2,0,999,2,0,1
+facebook/create-react-app,MERGED,34.42388888888889,1,2,0,71,3,0,1
+facebook/create-react-app,CLOSED,68.99333333333334,2,2,2,426,4,4,3

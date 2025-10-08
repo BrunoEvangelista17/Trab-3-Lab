@@ -1,0 +1,11 @@
+repository,status,analysis_time_hours,size_files,size_additions,size_deletions,description_chars,interaction_participants,interaction_comments,reviews_count
+binary-husky/gpt_academic,CLOSED,1710.6075,2,111,3,274,4,8,2
+binary-husky/gpt_academic,MERGED,66.32611111111112,1,35,28,273,3,4,1
+binary-husky/gpt_academic,MERGED,265.2261111111111,15,425,122,398,4,3,2
+binary-husky/gpt_academic,MERGED,117.60472222222222,1,23,10,115,3,0,1
+binary-husky/gpt_academic,MERGED,334.76166666666666,9,308,67,0,4,0,1
+binary-husky/gpt_academic,MERGED,506.33194444444445,3,145,53,70,2,0,1
+binary-husky/gpt_academic,MERGED,173.33638888888888,5,572,6,59,2,4,1
+binary-husky/gpt_academic,MERGED,50.76444444444444,2,11,2,17,4,0,1
+binary-husky/gpt_academic,CLOSED,27.114166666666666,1,2,2,0,3,1,1
+binary-husky/gpt_academic,MERGED,6.0275,1,0,16,670,2,0,1

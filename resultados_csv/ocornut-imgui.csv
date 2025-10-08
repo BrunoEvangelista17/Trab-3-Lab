@@ -1,0 +1,5 @@
+repository,status,analysis_time_hours,size_files,size_additions,size_deletions,description_chars,interaction_participants,interaction_comments,reviews_count
+ocornut/imgui,CLOSED,184.94416666666666,2,290,0,308,3,5,3
+ocornut/imgui,CLOSED,45.18055555555556,7,174,330,693,4,11,2
+ocornut/imgui,CLOSED,7.228055555555556,8,29,2,394,2,8,1
+ocornut/imgui,CLOSED,7456.735555555556,2,163,18,331,3,9,1

@@ -1,0 +1,12 @@
+repository,status,analysis_time_hours,size_files,size_additions,size_deletions,description_chars,interaction_participants,interaction_comments,reviews_count
+tonsky/FiraCode,MERGED,51.82222222222222,1,7,6,127,3,1,2
+tonsky/FiraCode,CLOSED,89.98444444444445,30,401,69,3750,2,1,2
+tonsky/FiraCode,MERGED,18.010833333333334,14,56,56,532,2,1,1
+tonsky/FiraCode,CLOSED,5964.476944444445,1,5,5,33,4,3,3
+tonsky/FiraCode,CLOSED,883.9719444444445,1,2,2,42,5,3,1
+tonsky/FiraCode,MERGED,17.398055555555555,32,110,406,282,4,2,1
+tonsky/FiraCode,CLOSED,5945.42,1,1,1,15,8,8,1
+tonsky/FiraCode,CLOSED,94.22111111111111,1,19,13,60,3,5,1
+tonsky/FiraCode,MERGED,16.124444444444446,1,2,2,0,4,1,1
+tonsky/FiraCode,MERGED,9103.141666666666,1,25,0,8,6,22,6
+tonsky/FiraCode,CLOSED,16613.120833333334,1,2,0,0,3,3,1
